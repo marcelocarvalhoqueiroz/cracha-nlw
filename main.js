@@ -1,9 +1,9 @@
 const linksSocialMedia = {
   github: 'marcelocarvalhoqueiroz',
   youtube: 'channel/UCLti1wEtefvt25_XlAnNtUQ',
-  facebook: 'marcelocarvalho',
+  facebook: 'profile.php?id=100007944780203',
   instagram: 'marcelocqin',
-  twitter: 'marcelocarvalho'
+  twitter: ''
 }
 
 function changeSocialMediaLinks() {
